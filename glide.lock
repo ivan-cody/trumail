@@ -3,8 +3,8 @@ updated: 2018-06-14T13:28:54.104458282-07:00
 imports:
 - name: github.com/dgrijalva/jwt-go
   version: 06ea1031745cb8b3dab3f6a236daf2b0aa468b7e
-- name: github.com/entrik/httpclient
-  version: ab56aa95da87432c47007acaecbbd2f3ef9703e9
+- name: github.com/ivan-cody/httpclient
+  version: 5a8d156677ce3007406bb5c23e85edf306be45ab
 - name: github.com/labstack/echo
   version: d36ff729613dd8e825455c504bea0586c43ac03d
   subpackages:
